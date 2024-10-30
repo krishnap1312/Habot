@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Habot/static/css/main.eb9694d5.css",
-    "main.js": "/Habot/static/js/main.7b132d08.js",
+    "main.js": "/Habot/static/js/main.b22343bb.js",
     "static/js/453.a79c96bf.chunk.js": "/Habot/static/js/453.a79c96bf.chunk.js",
     "static/media/buildings.jpg": "/Habot/static/media/buildings.f03845a4540c79b75f98.jpg",
     "static/media/bootstrap-icons.woff?": "/Habot/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/Habot/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/Habot/index.html",
     "main.eb9694d5.css.map": "/Habot/static/css/main.eb9694d5.css.map",
-    "main.7b132d08.js.map": "/Habot/static/js/main.7b132d08.js.map",
+    "main.b22343bb.js.map": "/Habot/static/js/main.b22343bb.js.map",
     "453.a79c96bf.chunk.js.map": "/Habot/static/js/453.a79c96bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb9694d5.css",
-    "static/js/main.7b132d08.js"
+    "static/js/main.b22343bb.js"
   ]
 }
